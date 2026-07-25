@@ -6,7 +6,7 @@
 
 ## ER-диаграмма
 
-![ER-диаграмма](diagrams/er-diagram.png)
+![ER-диаграмма](../diagrams/er-diagram.png)
 
 ## Сущности
 
